@@ -24,6 +24,7 @@ $(document).ready(function () {
 
     let stateStart = 0;
 
+    
     /* Start Game */
     $('.start').on('click', function () {
         this.blur();
